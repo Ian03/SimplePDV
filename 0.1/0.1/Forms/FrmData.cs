@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Runtime.CompilerServices;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,6 +20,7 @@ namespace _0._1
 
         private void buttonExit_Click(object sender, EventArgs e)
         {
+            this.Close();
             this.Close();
         }
     }
