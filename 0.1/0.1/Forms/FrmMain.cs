@@ -1,3 +1,5 @@
+using _0._1.Forms;
+
 namespace _0._1
 {
     public partial class FrmMain : Form
@@ -19,6 +21,11 @@ namespace _0._1
                 FrmData FormData = new FrmData();
                 FormData.Show();
                 this.Hide();
+            }
+            else
+            {
+                FrmMessagebox messagebox = new FrmMessagebox();
+                messagebox.Show("Mensagem de Erro", Color.FromArgb(255, 0, 0), Properties.Resources.Erro, "Favor informar um usuario e senha valido", FrmMessagebox.MessageBoxButon.OK);
             }
 
         }

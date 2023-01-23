@@ -1,10 +1,10 @@
 C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\bin\Debug\net6.0-windows\0.1.exe
-C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\bin\Debug\net6.0-windows\0.1.deps.json
-C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\bin\Debug\net6.0-windows\0.1.runtimeconfig.json
 C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\bin\Debug\net6.0-windows\0.1.dll
-C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\bin\Debug\net6.0-windows\0.1.pdb
 C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\0.1.csproj.AssemblyReference.cache
+C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\_0._1.FrmData.resources
 C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\_0._1.FrmMain.resources
+C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\_0._1.Forms.FrmMessagebox.resources
+C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\_0._1.Properties.Resources.resources
 C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\0.1.csproj.GenerateResource.cache
 C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\0.1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\0.1.AssemblyInfoInputs.cache
@@ -13,7 +13,8 @@ C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\0.1.c
 C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\0.1.dll
 C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\refint\0.1.dll
 C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\0.1.pdb
+C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\bin\Debug\net6.0-windows\0.1.deps.json
+C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\bin\Debug\net6.0-windows\0.1.runtimeconfig.json
+C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\bin\Debug\net6.0-windows\0.1.pdb
 C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\0.1.genruntimeconfig.cache
 C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\ref\0.1.dll
-C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\_0._1.FrmData.resources
-C:\Users\jiann\Documents\Github\SimplePDV\0.1\0.1\obj\Debug\net6.0-windows\_0._1.Properties.Resources.resources
